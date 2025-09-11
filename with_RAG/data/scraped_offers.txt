@@ -1,0 +1,456 @@
+01
+Genusskonzept GmbH & Co.KG
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Auf dem Kelterplatz
+
+Angebot
+Imbissgerichte, schwäbisch
+
+---NEW ITEM---02
+Genusskonzept GmbH & Co.KG
+A Freitag, B Samstag, C Sonntag, D Montag, Gewölbekeller, Musik
+A Freitag, B Samstag, C Sonntag, D Montag, Gewölbekeller, Musik
+FASSKELLER
+Angebot
+Getränke
+Musik
+Bands und DJ
+
+---NEW ITEM---03
+Chorgemeinschaft Besigheim
+C Sonntag
+C Sonntag
+Vereinszimmer Alte Kelter
+Angebot
+Kaffee + Kuchen von 14 bis 17 Uhr
+
+---NEW ITEM---04
+TSV Ottmarsheim, EK Besigheim Handball e.V., RSV Besigheim, HHC Walheim-Besigheim, Spvgg Besigheim, Chorgemeinschaft Besigheim
+A Freitag, B Samstag, Bühne, C Sonntag, D Montag, Musik, Weinprobierstand
+A Freitag, B Samstag, Bühne, C Sonntag, D Montag, Musik, Weinprobierstand
+Weindorf unterm Schirm
+Kelterplatz
+Angebot
+6 Weinstände mit unterschiedlichen Weinen der Felsengartenkellerei + Champagner aus Ay
+Musik
+Fr: Musikverein Stadtkapelle Besigheim, Band Campus, Sa: Musikverein Mundelsheim, So: verschiedene Musikkapellen, Akkordeonverein Ingersheim, Mo: Band Confect
+
+---NEW ITEM---05
+Laganini
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Hauptstraße, beim Kelterplatz
+Grillspezialitäten
+Angebot
+Grillspezialitäten
+
+---NEW ITEM---06
+Förderverein Volleyball Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Eingang Kirchstraße
+Eingang Kirchstraße
+Angebot
+Premiumweine der FGK
+
+---NEW ITEM---07
+Eiscafé Bataja
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Eingang Kirchstraße
+Angebot
+Eisspezialitäten
+
+---NEW ITEM---08
+Spvgg Besigheim Abt. Fußball
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Weinprobierstand
+Musik
+Hintergrundmusik
+
+---NEW ITEM---09
+Tennisclub Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Höhe Kischtraße 3
+Angebot
+Weinprobierstand und Waffeln
+
+---NEW ITEM---10
+Köftem & Co.
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Höhe Kirchstraße 3
+Angebot
+Köfte-Brot/Sucuk-Brot/Grillgemüse-Brot, Pommes
+
+---NEW ITEM---11
+Partnerschaftsausschuss Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 10
+Angebot
+Champagner aus AY
+
+---NEW ITEM---12
+Berne´s Bier- und Weinbar
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 15 vor Altstadthotel
+Angebot
+Maultaschen
+
+---NEW ITEM---13
+Restaurant Hirsch
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 16, vor Gaststätte
+Angebot
+Winzerbrot, Kartoffeln mit Quark, Pommes
+
+---NEW ITEM---14
+Reservistenkameradschaft  Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 19
+
+Angebot
+Rote Wurst und Bratwurst vom heimischem Wild aus dem Stromberg
+
+---NEW ITEM---15
+Grill- und Kulturverein  Winzerbeatz
+A Freitag, B Samstag, C Sonntag, D Montag, Gewölbekeller, Musik, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Gewölbekeller, Musik, Weinprobierstand
+Kirchstraße 21
+Angebot
+Weinprobierstand
+Musik
+Musik der 80er- und 90er Jahre
+
+---NEW ITEM---16
+DLRG Besigheim-Walheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Ecke Kirch-/Aiperturmstraße
+Angebot
+Weinprobierstand
+
+---NEW ITEM---17
+Gaststätte Ratsstüble
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+vor Gaststätte Ratsstüble
+Angebot
+Spanferkelbraten an Trollingersauce mit Spätzle und Salat, Linsen mit Spätzle und Saitenwürste
+
+---NEW ITEM---18
+M. Mayer & Söhne Erligheim
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße, neben Ratsstüble
+Angebot
+Süßwaren, Mandelbrennerei
+
+---NEW ITEM---19
+Marktwirtschaft
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Marktplatz
+Angebot
+Á la Carte, Cocktails
+
+---NEW ITEM---20
+Skully‘s Grill
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Marktplatz
+Angebot
+Putensteak, Schweinesteak, Rote Wurst, Wikinger-Wurst, Currywurst, Pommes, u. m.
+
+---NEW ITEM---21
+LangosLiebe
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Marktplatz
+Angebot
+Langos in allen Variationen
+
+---NEW ITEM---22
+Tennisclub Ottmarsheim
+A Freitag, B Samstag, C Sonntag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, Weinprobierstand
+Innenhof beim Rathaus
+Angebot
+Wein- und Sektprobierstand, So: Kaffee + Kuchen
+
+---NEW ITEM---23
+Hotel am Markt
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+im Innenhof
+Angebot
+Racletttebrot
+
+---NEW ITEM---24
+Pizza Tre Amici
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+vor Café Anker
+Angebot
+Pizza25
+L‘Ancora
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+vor Café Anker
+Angebot
+Pinsa, Arancini, Spaghetti im Käseleib
+Musik
+DJ-Musik am Samstag
+
+---NEW ITEM---26
+SpVgg Besigheim, Abteilung Tischtennis
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Schlosshof
+Angebot
+Weinprobierstand
+
+---NEW ITEM---27
+Pasta & Vino
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+Schlosshof
+Angebot
+Arancini, Salsiccia im Brötchen
+Musik
+Musik
+
+---NEW ITEM---28
+Langos König
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 34
+Angebot
+Verschiedene Langos, Kartoffelspirale
+
+---NEW ITEM---29
+Trägerverein Pfingstfreizeit
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kirchstraße 63
+Angebot
+Rote Wurst, Winzerweck
+
+---NEW ITEM---31
+Skizunft Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Kichstraße 75
+Angebot
+Weinprobierstand
+
+---NEW ITEM---32
+Grill- und Kulturverein Winzerbeatz
+A Freitag, B Samstag, C Sonntag, D Montag, Musik, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Musik, Weinprobierstand
+Hof der Schule am Steinhaus
+Angebot
+Winzersteak mit geschmälzten Zwiebeln, Rote Wurst, Thüringer Wurst, Maultaschen; So: Heringsweck
+Musik
+Fr.: Schimmelgefahr Sa.: Winzerbeats DJ Elektronische Musik So.: Highway 61 Mo.: DJ 90er-Jahre-Hits
+
+---NEW ITEM---33
+Evangelische Kirchengemeinde  Besigheim
+A Freitag, B Samstag, C Sonntag, Gewölbekeller
+A Freitag, B Samstag, C Sonntag, Gewölbekeller
+Dekanatskeller und Kirchgarten
+Angebot
+Sektbar und herzhafte Snacks; So: Kuchen
+
+---NEW ITEM---34
+Braubruderschaft Besigheim
+A Freitag, B Samstag, C Sonntag
+A Freitag, B Samstag, C Sonntag
+Pfarrgasse 14
+Angebot
+Getränke
+
+---NEW ITEM---35
+Braubruderschaft Besigheim
+A Freitag, B Samstag, C Sonntag, Gewölbekeller, Musik
+A Freitag, B Samstag, C Sonntag, Gewölbekeller, Musik
+Glück-auf-Keller
+Angebot
+Getränke
+Musik
+Fr: Horny Lulu, Sa: Potatoes, Mo: Mensch Maschine
+
+---NEW ITEM---36
+EK Besigheim Handball
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hof neben der Stadtkirche
+Angebot
+Ausschankwagen
+
+---NEW ITEM---37
+EK Besigheim Handball
+A Freitag, B Samstag, Bühne, C Sonntag, D Montag, Gewölbekeller, Musik, Weinprobierstand
+A Freitag, B Samstag, Bühne, C Sonntag, D Montag, Gewölbekeller, Musik, Weinprobierstand
+Steinhauskeller + Steinhausgarten
+Angebot
+Wurst vom Grill, So: Linsen mit Spätzle und Kaffee und Kuchen
+Musik
+Sa./So.: Krämers Kit
+
+---NEW ITEM---38
+Gecco-Events
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+Auf der Mauer
+Angebot
+Ausschankwagen
+Musik
+Chillout und DJ
+
+---NEW ITEM---39
+Gecco Events
+B Samstag
+B Samstag
+Enzbrücke
+Angebot
+Getränke während Fischerstechen, Sa 11-16 Uhr
+
+---NEW ITEM---40
+EnzBar
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Bierausschank
+Angebot
+Getränke, Speisen
+
+---NEW ITEM---41
+Foodtrucker - Holzofen
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Hauptstraße 4
+Angebot
+Vegetarische und herzhafte Dinkele, Pizza, Stockbrot, Apfel-Zucker-Zimt-Schnecken
+
+---NEW ITEM---42
+Lami‘s Langos
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Hauptstraße 8unter den Arkaden
+Angebot
+Ungarische Langos
+
+---NEW ITEM---43
+Skateboardverein Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße 17
+Angebot
+Weinprobierstand
+
+---NEW ITEM---44
+Eylem Baskaya
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Hauptstraße 21
+Angebot
+Türkische Spezialitäten, alkoholfreie Getränke
+
+---NEW ITEM---45
+SpVgg Besigheim, Abteilung Fußball
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße 14
+Angebot
+Weinprobierstand
+
+---NEW ITEM---46
+Sportschützenverein Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße 22
+Angebot
+Weinprobierstand
+
+---NEW ITEM---47
+Musikverein Stadtkapelle Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße vor Bäckerei Übele
+Angebot
+Weinprobierstand und Waffeln
+
+---NEW ITEM---48
+Metzgerei Herbst
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Stand zwischen Hauptstraße und Metzgerei Herbst
+Angebot
+Rote Wurst, Winzerbratwurst, Fleischbrot, Schnitzel, Kartoffelsalat, Pommes; So. ab 11 Uhr: Rindergulasch mit Spätzle, Berner Pfanne, Schweinegeschnetzeltes
+
+---NEW ITEM---49
+Casablanca
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+vor Metzgerei Herbst
+Angebot
+Rote mit Brötchen50
+La Storia
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+A Freitag, B Samstag, C Sonntag, D Montag, Musik
+vor der Gaststätte
+Angebot
+Pasta aus dem Käselaib, Pinsa, Taccos, gegrillter Oktopus
+Musik
+DJ-Live-Musik
+
+---NEW ITEM---51
+Bistro Adria
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Hauptstraße 22
+
+Angebot
+Getränke, Crêpes, Softeis, Wilde Kartoffeln, Chicken Nuggets, Burger, Pommes
+
+---NEW ITEM---52
+Freiwillige Feuerwehr Besigheim
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße vor Schuh Stella
+Angebot
+Weinprobierstand
+
+---NEW ITEM---53
+Café Misch-Masch
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+A Freitag, B Samstag, C Sonntag, D Montag, Weinprobierstand
+Hauptstraße 45
+
+Angebot
+Kässpätzle, Saiten mit Kartoffelsalat, Currywurst mit Pommes
+
+---NEW ITEM---54
+M. Mayer & Söhne Erligheim
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+Kelterplatz
+Angebot
+Süßwaren, Mandelbrennerei
+
+---NEW ITEM---61
+Backhausverein Vorstadt
+A Freitag, B Samstag, C Sonntag, D Montag
+A Freitag, B Samstag, C Sonntag, D Montag
+beim Backhaus
+Angebot
+Winzerfladen und Kartoffelkuchen aus dem Backhaus, Flachswickel
+Musik
+Sa: Die kleine Brenz-Band "MakelLos"

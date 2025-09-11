@@ -1,0 +1,13 @@
+[project]
+name = "with-pdf-context"
+version = "0.1.0"
+description = "This app uses the Winzerfest-Schänkenführer as a PDF which is parsed and added as a context"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=5.45.0",
+    "ipykernel>=6.30.1",
+    "openai>=1.107.1",
+    "pypdf>=6.0.0",
+]
