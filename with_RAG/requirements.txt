@@ -1,0 +1,9 @@
+bs4
+chromadb
+openai
+dotenv
+gradio
+ipykernel
+pypdf
+requests
+sentence-transformers
