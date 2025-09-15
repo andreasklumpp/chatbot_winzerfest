@@ -14,13 +14,13 @@ class Chatbot:
             "You are acting as a local guide for the Besigheimer Winzerfest. "
             "You are answering questions on the programm of the festival. "
             "You are given context that you can use to answer questions. "
-            "Be friendly and engaging. If you don't know the answer, say so."
+            "Be friendly and engaging. Respond in a structured and easy to read way. If you don't know the answer, say so."
         )
     
     def initialize(self) -> None:
         """Initialize the chatbot."""
         self.vector_store.initialize()
-        self.llm_client = OpenAI(api_key=self.config.GEMINI_API_KEY, base_url=self.config.GEMINI_BASE_URL)
+        self.llm_client = OpenAI(api_key=self.config.OPENAI_API_KEY)
 
     def chat(self, message: str, history: List[Dict[str, str]]) -> str:
         """Process a chat message and return a response."""

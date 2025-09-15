@@ -1,3 +1,9 @@
+---
+title: Winzerfest_Chatbot_with_RAG
+app_file: app.py
+sdk: gradio
+sdk_version: 5.45.0
+---
 # Winzerfest Chatbot
 
 A RAG-based chatbot for the Besigheimer Winzerfest that helps visitors find information about the festival program, food stands, and events.
