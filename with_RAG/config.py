@@ -31,10 +31,4 @@ class Config:
     # LLM Configuration
     TEMPERATURE = 0.7
     
-    # System prompt
-    SYSTEM_PROMPT = (
-        "You are acting as a local guide for the Besigheimer Winzerfest. "
-        "You are answering questions on the programm of the festival. "
-        "You are given context that you can use to answer questions. "
-        "Be friendly and engaging. If you don't know the answer, say so."
-    )
+ 
