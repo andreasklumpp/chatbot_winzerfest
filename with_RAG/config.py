@@ -11,6 +11,8 @@ class Config:
     
     # API Configuration
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+    GOOGLE_ANALYTICS_ID = os.getenv("GOOGLE_ANALYTICS_ID")
     
     # Model Configuration
     EMBEDDING_MODEL = "all-MiniLM-L6-v2"
